@@ -1,13 +1,13 @@
 ## 👋 Hi, I’m Shirish 🙂
 
- - 👨‍💻 **I am currently working as a Full-Stack Developer at IQ Innovation Hub, Pune. 🇮🇳**
- - 🎓 _I graduated from_
-     - _SunBeam Institute of Information Technology with a **PGDAC** (Post-Graduate Diploma in Advance Computing) in Information Technology_,
-     - _Walchand College of Engineering with a **B.Tech** in Electronics Engineering._ 
- - ☝ _I am passionate about learning new skills and technologies, and I enjoy working on challenging and exciting projects that require creativity and problem-solving._ 
- - 🎯 _My goal is to contribute to the innovation and growth of the software industry with my skills and experience._   
- - 📫 _Ready to connect? Drop me a line at shirish.patil1998@gmail.com – let's turn ideas into action !!!_
- - ⚡ _Fun fact: I appeared for one of the toughest exams in India (UPSC), missing the cutoff by a mere 0.5 marks !_ 😉
+ - ### 👨‍💻 **I am currently working as a Full-Stack Developer at IQ Innovation Hub, Pune. 🇮🇳**
+ - ### 🎓 _I graduated from_
+   ###   - _SunBeam Institute of Information Technology with a **PGDAC** (Post-Graduate Diploma in Advance Computing) in Information Technology_,
+   ###    - _Walchand College of Engineering with a **B.Tech** in Electronics Engineering._ 
+ - ###  ☝ _I am passionate about learning new skills and technologies, and I enjoy working on challenging and exciting projects that require creativity and problem-solving._ 
+ - ### 🎯 _My goal is to contribute to the innovation and growth of the software industry with my skills and experience._   
+ - ###  📫 _Ready to connect? Drop me a line at shirish.patil1998@gmail.com – let's turn ideas into action !!!_
+ - ###  ⚡ _Fun fact: I appeared for one of the toughest exams in India (UPSC), missing the cutoff by a mere 0.5 marks !_ 😉
 
   
    ***
