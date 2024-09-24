@@ -1,13 +1,13 @@
 ## 👋 Hi, I’m Shirish 🙂
 
- - ### 👨‍💻 **I am currently working as a Full-Stack Developer at IQ Innovation Hub, Pune. 🇮🇳**
+ - ### 👨‍💻 **I am currently working as a Full-Stack Developer. 🇮🇳**
  - ### 🎓 _I graduated from_
    ###   - _SunBeam Institute of Information Technology with a **PGDAC** (Post-Graduate Diploma in Advance Computing) in Information Technology_,
    ###    - _Walchand College of Engineering with a **B.Tech** in Electronics Engineering._ 
  - ###  ☝ _I am passionate about learning new skills and technologies, and I enjoy working on challenging and exciting projects that require creativity and problem-solving._ 
  - ### 🎯 _My goal is to contribute to the innovation and growth of the software industry with my skills and experience._   
  - ###  📫 _Ready to connect? Drop me a line at shirish.patil1998@gmail.com – let's turn ideas into action !!!_
- - ###  ⚡ _Fun fact: I appeared for one of the toughest exams in India (UPSC), missing the cutoff by a mere 0.5 marks !_ 😉
+
 
   
    ***
@@ -39,7 +39,6 @@
 
 <a href="https://www.linkedin.com/in/pshirish/" title="shirishpatil" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:shirish.patil1998@gmail.com" target="_blank" title="shirish.patil1998@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/shirrya___/" title="shirish.patil" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/></a>
 
 
 
